@@ -1,3 +1,7 @@
-h1 {
-    color:red;
+.redBorder {
+    border-color: red;
+}
+
+.blackBorder {
+    border-color:black
 }
